@@ -62,7 +62,6 @@ const provLeft = computed(() => {
 		<v-btn class="mr-2 mb-4" @click="showIcons = !showIcons">Icons</v-btn>
 		<v-btn class="mr-2 mb-4" @click="showNames = !showNames">Names</v-btn>
 		<v-btn class="mr-2 mb-4" @click="showCategory = !showCategory">Categories</v-btn>
-		<div>Provision left: {{ provLeft }}</div>
 
 		<v-select
 			:model-value="currentDeck"

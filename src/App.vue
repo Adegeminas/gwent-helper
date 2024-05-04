@@ -10,7 +10,7 @@ const currentTab = ref(0);
 <template>
 	<v-tabs v-model="currentTab">
 		<v-tab>Tracker</v-tab>
-		<v-tab>Contructor</v-tab>
+		<v-tab>Constructor</v-tab>
 	</v-tabs>
 
 	<div v-if="currentTab === 0" class="main-2">
@@ -33,7 +33,9 @@ const currentTab = ref(0);
 	height: 100%;
 	width: 100%;
 	display: grid;
-	grid-template-columns: 1fr 1fr;
+	grid-template-columns: 1fr;
+	align-items: flex-start;
+	max-width: 800px;
 }
 .v-tabs {
 	width: 100%;
