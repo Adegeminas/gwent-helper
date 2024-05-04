@@ -8,7 +8,7 @@ const currentTab = ref(0);
 </script>
 
 <template>
-	<v-tabs v-model="currentTab">
+	<v-tabs v-model="currentTab" class="appTabs">
 		<v-tab>Tracker</v-tab>
 		<v-tab>Constructor</v-tab>
 	</v-tabs>
@@ -17,7 +17,7 @@ const currentTab = ref(0);
 		<DeckTracker />
 	</div>
 
-	<div v-if="currentTab === 1" class="main-1">
+	<div v-if="currentTab === 1" class="main-1 constructor">
 		<DeckConstructor />
 	</div>
 </template>
@@ -42,6 +42,11 @@ const currentTab = ref(0);
 	margin-bottom: 20px;
 	.v-tab {
 		height: 40px;
+	}
+}
+@media screen and (max-width: 900px) {
+	.appTabs, .constructor {
+		display: none !important;
 	}
 }
 </style>
