@@ -1,7 +1,7 @@
 <script setup lang="ts">
 
 import { type Card } from "@/types";
-import { type PropType, ref, reactive, computed } from 'vue';
+import { type PropType } from 'vue';
 
 const props = defineProps({
 	card: {

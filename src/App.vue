@@ -9,13 +9,12 @@ const currentTab = ref(0);
 
 <template>
 	<v-tabs v-model="currentTab">
-		<v-tab>Трэкер</v-tab>
-		<v-tab>Конструктор</v-tab>
+		<v-tab>Tracker</v-tab>
+		<v-tab>Contructor</v-tab>
 	</v-tabs>
 
 	<div v-if="currentTab === 0" class="main-2">
 		<DeckTracker />
-		<OppTracker />
 	</div>
 
 	<div v-if="currentTab === 1" class="main-1">

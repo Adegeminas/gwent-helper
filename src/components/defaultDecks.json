@@ -1,0 +1,2660 @@
+[
+    {
+        "name": "NG Imposter Ball",
+        "cards": [
+            {
+                "name": "Masquerade Ball",
+                "prov": 14,
+                "gold": true,
+                "category": "wincon"
+            },
+            {
+                "name": "Admiral Rompally",
+                "prov": 13,
+                "gold": true,
+                "category": "wincon"
+            },
+            {
+                "name": "Ard Feainn",
+                "prov": 11,
+                "gold": true,
+                "category": "tutor"
+            },
+            {
+                "name": "Coup de Grace",
+                "prov": 10,
+                "echo": true,
+                "gold": true,
+                "category": "wincon"
+            },
+            {
+                "name": "Joachim de Wett",
+                "prov": 10,
+                "gold": true,
+                "category": "tutor"
+            },
+            {
+                "name": "Vincent van Moorlehem",
+                "prov": 10,
+                "gold": true,
+                "category": "wincon"
+            },
+            {
+                "name": "Rosa and Edna",
+                "prov": 9,
+                "gold": true,
+                "category": "wincon"
+            },
+            {
+                "name": "Philippe van Moorlehem",
+                "prov": 8,
+                "gold": true,
+                "category": "wincon"
+            },
+            {
+                "name": "Fergus var Emreis",
+                "prov": 6,
+                "gold": true,
+                "category": "core"
+            },
+            {
+                "name": "Ceallach Dyffryn",
+                "prov": 6,
+                "gold": true,
+                "category": "core"
+            },
+            {
+                "name": "Roderick of Dun Tynne",
+                "prov": 6,
+                "gold": true,
+                "category": "tutor"
+            },
+            {
+                "name": "Alba Pikeman",
+                "prov": 5,
+                "category": "core"
+            },
+            {
+                "name": "Alba Pikeman",
+                "prov": 5,
+                "category": "core"
+            },
+            {
+                "name": "Thirsty Dame",
+                "prov": 5,
+                "category": "core"
+            },
+            {
+                "name": "Thirsty Dame",
+                "prov": 5,
+                "category": "core"
+            },
+            {
+                "name": "Seditious Aristocrats",
+                "prov": 5,
+                "category": "core"
+            },
+            {
+                "name": "Seditious Aristocrats",
+                "prov": 5,
+                "category": "core"
+            },
+            {
+                "name": "Fangs of the Empire",
+                "prov": 4
+            },
+            {
+                "name": "Fangs of the Empire",
+                "prov": 4
+            },
+            {
+                "name": "Hunting Pack",
+                "prov": 4
+            },
+            {
+                "name": "Hunting Pack",
+                "prov": 4
+            },
+            {
+                "name": "Van Moorlehem Servant",
+                "prov": 4
+            },
+            {
+                "name": "Van Moorlehem Servant",
+                "prov": 4
+            },
+            {
+                "name": "Van Moorlehem Hunter",
+                "prov": 4
+            },
+            {
+                "name": "Van Moorlehem Hunter",
+                "prov": 4
+            }
+        ]
+    },
+    {
+        "name": "NR devo muto temple",
+        "cards": [
+            {
+                "name": "Temple of Melitele",
+                "prov": 14,
+                "gold": true,
+                "category": "wincon"
+            },
+            {
+                "name": "King Demavend",
+                "prov": 13,
+                "gold": true,
+                "category": "wincon"
+            },
+            {
+                "name": "King Radovid V",
+                "prov": 10,
+                "gold": true,
+                "category": "core"
+            },
+            {
+                "name": "Raffard’s Vengeance",
+                "prov": 10,
+                "gold": true,
+                "category": "wincon"
+            },
+            {
+                "name": "Radovid Judgment",
+                "prov": 10,
+                "gold": true,
+                "category": "tutor"
+            },
+            {
+                "name": "Prince Anséis",
+                "prov": 10,
+                "gold": true,
+                "category": "wincon"
+            },
+            {
+                "name": "Mutagenerator",
+                "prov": 9,
+                "gold": true,
+                "category": "wincon"
+            },
+            {
+                "name": "Hubert Rejk",
+                "prov": 8,
+                "gold": true,
+                "category": "tutor"
+            },
+            {
+                "name": "Carroballista",
+                "prov": 5,
+                "category": "core"
+            },
+            {
+                "name": "Carroballista",
+                "prov": 5,
+                "category": "core"
+            },
+            {
+                "name": "Lyrian Arbalest",
+                "prov": 5,
+                "category": "core"
+            },
+            {
+                "name": "Lyrian Arbalest",
+                "prov": 5,
+                "category": "core"
+            },
+            {
+                "name": "Lyrian Landsknecht",
+                "prov": 5,
+                "category": "core"
+            },
+            {
+                "name": "Lyrian Landsknecht",
+                "prov": 5,
+                "category": "core"
+            },
+            {
+                "name": "Redanian Archer",
+                "prov": 5,
+                "category": "core"
+            },
+            {
+                "name": "Redanian Archer",
+                "prov": 5,
+                "category": "core"
+            },
+            {
+                "name": "Reinforced Ballista",
+                "prov": 5,
+                "category": "core"
+            },
+            {
+                "name": "Reinforced Ballista",
+                "prov": 5,
+                "category": "core"
+            },
+            {
+                "name": "Siege Master",
+                "prov": 5,
+                "category": "tutor"
+            },
+            {
+                "name": "Siege Master",
+                "prov": 5,
+                "category": "tutor"
+            },
+            {
+                "name": "Battering Ram",
+                "prov": 5,
+                "category": "core"
+            },
+            {
+                "name": "Kaedweni Revenant",
+                "prov": 4
+            },
+            {
+                "name": "Kaedweni Revenant",
+                "prov": 4
+            },
+            {
+                "name": "Winch",
+                "prov": 4
+            },
+            {
+                "name": "Winch",
+                "prov": 4
+            }
+        ]
+    },
+    {
+        "name": "SY devo yago",
+        "cards": [
+            {
+                "name": "Madam Marquise Serenity",
+                "prov": 14,
+                "gold": true,
+                "category": "wincon"
+            },
+            {
+                "name": "King of Beggars",
+                "prov": 12,
+                "gold": true,
+                "category": "tutor"
+            },
+            {
+                "name": "Novigrad",
+                "prov": 12,
+                "gold": true,
+                "category": "wincon"
+            },
+            {
+                "name": "Captain Yago",
+                "prov": 11,
+                "gold": true,
+                "category": "wincon"
+            },
+            {
+                "name": "Korathi Heatwave",
+                "prov": 10,
+                "gold": true,
+                "category": "wincon"
+            },
+            {
+                "name": "Royal Decree",
+                "prov": 9,
+                "gold": true,
+                "category": "tutor"
+            },
+            {
+                "name": "The Flying Redanian",
+                "prov": 9,
+                "gold": true,
+                "category": "tutor"
+            },
+            {
+                "name": "Conjurers Candle",
+                "prov": 8,
+                "gold": true,
+                "category": "core"
+            },
+            {
+                "name": "Whoresons Freak Show",
+                "prov": 8,
+                "gold": true,
+                "category": "core"
+            },
+            {
+                "name": "Saul de Navarette",
+                "prov": 7,
+                "gold": true,
+                "category": "core"
+            },
+            {
+                "name": "Hvitr and Aelydia",
+                "prov": 6,
+                "gold": true,
+                "category": "core"
+            },
+            {
+                "name": "Shady Vendor",
+                "prov": 5,
+                "category": "core"
+            },
+            {
+                "name": "Sly Seductress",
+                "prov": 5,
+                "category": "core"
+            },
+            {
+                "name": "Bare-Knuckle Brawler",
+                "prov": 4
+            },
+            {
+                "name": "Bare-Knuckle Brawler",
+                "prov": 4
+            },
+            {
+                "name": "Eventide Plunder",
+                "prov": 4
+            },
+            {
+                "name": "Eventide Plunder",
+                "prov": 4
+            },
+            {
+                "name": "Fisstech",
+                "prov": 4
+            },
+            {
+                "name": "Fisstech",
+                "prov": 4
+            },
+            {
+                "name": "Fisstech Trafficker",
+                "prov": 4
+            },
+            {
+                "name": "Fisstech Trafficker",
+                "prov": 4
+            },
+            {
+                "name": "Passiflora Peaches",
+                "prov": 4
+            },
+            {
+                "name": "Passiflora Peaches",
+                "prov": 4
+            },
+            {
+                "name": "Sewer Raiders",
+                "prov": 4
+            },
+            {
+                "name": "Sewer Raiders",
+                "prov": 4
+            }
+        ]
+    },
+    {
+        "name": "MO Tatterwing",
+        "cards": [
+            {
+                "name": "Oneiromancy",
+                "prov": 13,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Morvudd",
+                "prov": 12,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "mo"
+            },
+            {
+                "name": "Lara Dorren",
+                "prov": 11,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "mo"
+            },
+            {
+                "name": "Tatterwing",
+                "prov": 11,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "mo"
+            },
+            {
+                "name": "Hive Mind",
+                "prov": 10,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "mo"
+            },
+            {
+                "name": "Korathi Heatwave",
+                "prov": 10,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Ard Gaeth",
+                "prov": 8,
+                "gold": true,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Geels",
+                "prov": 8,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "mo"
+            },
+            {
+                "name": "Whispess Tribute",
+                "prov": 8,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "mo"
+            },
+            {
+                "name": "Saer Quan",
+                "prov": 8,
+                "gold": true,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Naglfar Crew",
+                "prov": 5,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Naglfar Crew",
+                "prov": 5,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Predatory Dive",
+                "prov": 5,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Red Riders",
+                "prov": 5,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Spontaneous Evolution",
+                "prov": 5,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Spontaneous Evolution",
+                "prov": 5,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Arachas Nest",
+                "prov": 4,
+                "fraction": "mo"
+            },
+            {
+                "name": "Arachas Nest",
+                "prov": 4,
+                "fraction": "mo"
+            },
+            {
+                "name": "Endrega Warrior",
+                "prov": 4,
+                "fraction": "mo"
+            },
+            {
+                "name": "Drowner",
+                "prov": 4,
+                "fraction": "mo"
+            },
+            {
+                "name": "Nightwraith",
+                "prov": 4,
+                "fraction": "mo"
+            },
+            {
+                "name": "Nightwraith",
+                "prov": 4,
+                "fraction": "mo"
+            },
+            {
+                "name": "Natural Selection",
+                "prov": 4,
+                "fraction": "mo"
+            },
+            {
+                "name": "Natural Selection",
+                "prov": 4,
+                "fraction": "mo"
+            },
+            {
+                "name": "Wolf Pack",
+                "prov": 4,
+                "fraction": "neutral"
+            }
+        ]
+    },
+    {
+        "name": "MO Fruits Midrange",
+        "cards": [
+            {
+                "name": "Oneiromancy",
+                "prov": 13,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Mammuna",
+                "prov": 12,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "mo"
+            },
+            {
+                "name": "Korathi Heatwave",
+                "prov": 10,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Aerondight",
+                "prov": 10,
+                "gold": true,
+                "echo": true,
+                "category": "wincon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Eskel Pathfinder",
+                "prov": 10,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Lord Riptide",
+                "prov": 9,
+                "gold": true,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Ethereal",
+                "prov": 8,
+                "gold": true,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Lady of the Lake",
+                "prov": 8,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Alpha Werewolf",
+                "prov": 8,
+                "gold": true,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Golyat",
+                "prov": 7,
+                "gold": true,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Griffin",
+                "prov": 5,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Griffin",
+                "prov": 5,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Incubus",
+                "prov": 5,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Incubus",
+                "prov": 5,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Cyclops",
+                "prov": 5,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Cyclops",
+                "prov": 5,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Witch Apprentice",
+                "prov": 5,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Witch Apprentice",
+                "prov": 5,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Megascope",
+                "prov": 4,
+                "fraction": "neutral"
+            },
+            {
+                "name": "Squirrel",
+                "prov": 4,
+                "fraction": "neutral"
+            },
+            {
+                "name": "Megascope",
+                "prov": 4,
+                "fraction": "neutral"
+            },
+            {
+                "name": "Werewolf",
+                "prov": 4,
+                "fraction": "mo"
+            },
+            {
+                "name": "Werewolf",
+                "prov": 4,
+                "fraction": "mo"
+            },
+            {
+                "name": "Fiend",
+                "prov": 4,
+                "fraction": "mo"
+            },
+            {
+                "name": "Fiend",
+                "prov": 4,
+                "fraction": "mo"
+            }
+        ]
+    },
+    {
+        "name": "SK devo warriors",
+        "cards": [
+            {
+                "name": "Fucusya",
+                "prov": 14,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "sk"
+            },
+            {
+                "name": "Tyr Slayer of Yngvar",
+                "prov": 14,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "sk"
+            },
+            {
+                "name": "Blood Eagle",
+                "prov": 12,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "sk"
+            },
+            {
+                "name": "Sove",
+                "prov": 12,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "sk"
+            },
+            {
+                "name": "Kaer Trolde",
+                "prov": 11,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "sk"
+            },
+            {
+                "name": "King Bran",
+                "prov": 11,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "sk"
+            },
+            {
+                "name": "Vabjorn",
+                "prov": 8,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "sk"
+            },
+            {
+                "name": "Champions Charge",
+                "prov": 7,
+                "gold": true,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "War of Clans",
+                "prov": 6,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "War of Clans",
+                "prov": 6,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "Freyas Blessing",
+                "prov": 5,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "Highland Warlord",
+                "prov": 5,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "Highland Warlord",
+                "prov": 5,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "An Craite Warrior",
+                "prov": 4,
+                "fraction": "sk"
+            },
+            {
+                "name": "Brokvar Warrior",
+                "prov": 4,
+                "fraction": "sk"
+            },
+            {
+                "name": "Brokvar Warrior",
+                "prov": 4,
+                "fraction": "sk"
+            },
+            {
+                "name": "Gutting Slash",
+                "prov": 4,
+                "fraction": "sk"
+            },
+            {
+                "name": "Gutting Slash",
+                "prov": 4,
+                "fraction": "sk"
+            },
+            {
+                "name": "Little Havfrue",
+                "prov": 4,
+                "fraction": "sk"
+            },
+            {
+                "name": "Savage Bear",
+                "prov": 4,
+                "fraction": "sk"
+            },
+            {
+                "name": "Primal Savagery",
+                "prov": 4,
+                "fraction": "sk"
+            },
+            {
+                "name": "Primal Savagery",
+                "prov": 4,
+                "fraction": "sk"
+            },
+            {
+                "name": "Tuirseach Invader",
+                "prov": 4,
+                "fraction": "sk"
+            },
+            {
+                "name": "Tuirseach Invader",
+                "prov": 4,
+                "fraction": "sk"
+            },
+            {
+                "name": "An Craite Warcrier",
+                "prov": 4,
+                "fraction": "sk"
+            }
+        ]
+    },
+    {
+        "name": "ST Shirru control",
+        "cards": [
+            {
+                "name": "Oneiromancy",
+                "prov": 13,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Simlas Finn aep Dabairr",
+                "prov": 13,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "st"
+            },
+            {
+                "name": "Milva Sharpshooter",
+                "prov": 11,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "st"
+            },
+            {
+                "name": "Korathi Heatwave",
+                "prov": 10,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Mahakam Pass",
+                "prov": 10,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "st"
+            },
+            {
+                "name": "Schirrú",
+                "prov": 10,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "st"
+            },
+            {
+                "name": "Curse of Corruption",
+                "prov": 9,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Dennis Cranmer",
+                "prov": 8,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "st"
+            },
+            {
+                "name": "Frenzied Dao",
+                "prov": 7,
+                "gold": true,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Bearification",
+                "prov": 5,
+                "gold": true,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Maxii van Dekkar",
+                "prov": 5,
+                "gold": true,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Rock Barrage",
+                "prov": 5,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Armorers Workshop",
+                "prov": 5,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Armorers Workshop",
+                "prov": 5,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Backup Plan",
+                "prov": 5,
+                "category": "core",
+                "fraction": "st"
+            },
+            {
+                "name": "Backup Plan",
+                "prov": 5,
+                "category": "core",
+                "fraction": "st"
+            },
+            {
+                "name": "Cat Witcher Saboteur",
+                "prov": 5,
+                "category": "core",
+                "fraction": "st"
+            },
+            {
+                "name": "Dwarven Chariot",
+                "prov": 5,
+                "category": "core",
+                "fraction": "st"
+            },
+            {
+                "name": "Dwarven Chariot",
+                "prov": 5,
+                "category": "core",
+                "fraction": "st"
+            },
+            {
+                "name": "Vial of Forbidden Knowledge",
+                "prov": 4,
+                "gold": true,
+                "fraction": "neutral"
+            },
+            {
+                "name": "Spores",
+                "prov": 4,
+                "fraction": "neutral"
+            },
+            {
+                "name": "Squirrel",
+                "prov": 4,
+                "fraction": "neutral"
+            },
+            {
+                "name": "Dwarven Skirmisher",
+                "prov": 4,
+                "fraction": "st"
+            },
+            {
+                "name": "Dwarven Skirmisher",
+                "prov": 4,
+                "fraction": "st"
+            },
+            {
+                "name": "Pyrotechnician",
+                "prov": 4,
+                "fraction": "st"
+            }
+        ]
+    },
+    {
+        "name": "NG madoc fenix",
+        "cards": [
+            {
+                "name": "War Council",
+                "prov": 12,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "ng"
+            },
+            {
+                "name": "Letho Kingslayer",
+                "prov": 10,
+                "gold": true,
+                "category": "core",
+                "fraction": "ng"
+            },
+            {
+                "name": "Ramon Tyrconnel",
+                "prov": 10,
+                "gold": true,
+                "category": "core",
+                "fraction": "ng"
+            },
+            {
+                "name": "Korathi Heatwave",
+                "prov": 10,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "The Mushy Truffle",
+                "prov": 10,
+                "gold": true,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Phoenix",
+                "prov": 10,
+                "gold": true,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Madoc",
+                "prov": 10,
+                "gold": true,
+                "category": "summon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Artorius Vigo",
+                "prov": 9,
+                "gold": true,
+                "category": "core",
+                "fraction": "ng"
+            },
+            {
+                "name": "Curse of Corruption",
+                "prov": 9,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Roderick of Dun Tynne",
+                "prov": 6,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "ng"
+            },
+            {
+                "name": "Nauzicaa Sergeant",
+                "prov": 6,
+                "category": "core",
+                "fraction": "ng"
+            },
+            {
+                "name": "Sapper",
+                "prov": 6,
+                "category": "summon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Sapper",
+                "prov": 6,
+                "category": "summon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Slave Driver",
+                "prov": 5,
+                "category": "core",
+                "fraction": "ng"
+            },
+            {
+                "name": "Slave Driver",
+                "prov": 5,
+                "category": "core",
+                "fraction": "ng"
+            },
+            {
+                "name": "Hunting Pack",
+                "prov": 4,
+                "fraction": "ng"
+            },
+            {
+                "name": "Hunting Pack",
+                "prov": 4,
+                "fraction": "ng"
+            },
+            {
+                "name": "Illusionist",
+                "prov": 4,
+                "fraction": "ng"
+            },
+            {
+                "name": "Dimeritium Bomb",
+                "prov": 4,
+                "fraction": "neutral"
+            },
+            {
+                "name": "Dimeritium Bomb",
+                "prov": 4,
+                "fraction": "neutral"
+            },
+            {
+                "name": "Dancing Star",
+                "prov": 4,
+                "fraction": "neutral"
+            },
+            {
+                "name": "Dancing Star",
+                "prov": 4,
+                "fraction": "neutral"
+            },
+            {
+                "name": "Samum",
+                "prov": 4,
+                "fraction": "neutral"
+            },
+            {
+                "name": "Samum",
+                "prov": 4,
+                "fraction": "neutral"
+            },
+            {
+                "name": "Red Haze",
+                "prov": 4,
+                "fraction": "neutral"
+            }
+        ]
+    },
+    {
+        "name": "MO nekker vamps",
+        "cards": [
+            {
+                "name": "Golden Nekker",
+                "prov": 10,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Royal Decree",
+                "prov": 9,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Roach",
+                "prov": 9,
+                "gold": true,
+                "category": "summon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Lord Riptide",
+                "prov": 9,
+                "gold": true,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Vereena",
+                "prov": 9,
+                "gold": true,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Cave Troll",
+                "prov": 9,
+                "gold": true,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Orianna",
+                "prov": 9,
+                "gold": true,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Knickers",
+                "prov": 8,
+                "gold": true,
+                "category": "summon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Necromancers Tome",
+                "prov": 8,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "mo"
+            },
+            {
+                "name": "Protofleder",
+                "prov": 8,
+                "gold": true,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Operator",
+                "prov": 7,
+                "gold": true,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "The Last Wish",
+                "prov": 6,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Dorregaray of Vole",
+                "prov": 6,
+                "gold": true,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Fleder",
+                "prov": 6,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Fleder",
+                "prov": 6,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Queen of the Night",
+                "prov": 6,
+                "gold": true,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Nekurat",
+                "prov": 5,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Nekurat",
+                "prov": 5,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Alp",
+                "prov": 5,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Alp",
+                "prov": 5,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Incubus",
+                "prov": 5,
+                "category": "core",
+                "fraction": "mo"
+            },
+            {
+                "name": "Garkain",
+                "prov": 4,
+                "fraction": "mo"
+            },
+            {
+                "name": "Garkain",
+                "prov": 4,
+                "fraction": "mo"
+            },
+            {
+                "name": "Fiend",
+                "prov": 4,
+                "fraction": "mo"
+            },
+            {
+                "name": "Fiend",
+                "prov": 4,
+                "fraction": "mo"
+            }
+        ]
+    },
+    {
+        "name": "ST listik non-devo",
+        "cards": [
+            {
+                "name": "Simlas Finn aep Dabairr",
+                "prov": 13,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "st"
+            },
+            {
+                "name": "Aucwenn",
+                "prov": 13,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "st"
+            },
+            {
+                "name": "Forest Protector",
+                "prov": 11,
+                "gold": true,
+                "category": "core",
+                "fraction": "st"
+            },
+            {
+                "name": "Saskia",
+                "prov": 11,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "st"
+            },
+            {
+                "name": "Korathi Heatwave",
+                "prov": 10,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Geralt of Rivia",
+                "prov": 10,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Call of the Forest",
+                "prov": 10,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "st"
+            },
+            {
+                "name": "Fauve",
+                "prov": 8,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "st"
+            },
+            {
+                "name": "Tempest",
+                "prov": 7,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Spring Equinox",
+                "prov": 5,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Spring Equinox",
+                "prov": 5,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Naiad Fledgling",
+                "prov": 5,
+                "category": "core",
+                "fraction": "st"
+            },
+            {
+                "name": "Naiad Fledgling",
+                "prov": 5,
+                "category": "core",
+                "fraction": "st"
+            },
+            {
+                "name": "Natures Rebuke",
+                "prov": 5,
+                "category": "core",
+                "fraction": "st"
+            },
+            {
+                "name": "Natures Rebuke",
+                "prov": 5,
+                "category": "core",
+                "fraction": "st"
+            },
+            {
+                "name": "Elven Seer",
+                "prov": 5,
+                "category": "core",
+                "fraction": "st"
+            },
+            {
+                "name": "Hamadryad",
+                "prov": 5,
+                "category": "core",
+                "fraction": "st"
+            },
+            {
+                "name": "Hamadryad",
+                "prov": 5,
+                "category": "core",
+                "fraction": "st"
+            },
+            {
+                "name": "Impenetrable Fog",
+                "prov": 4,
+                "fraction": "neutral"
+            },
+            {
+                "name": "Impenetrable Fog",
+                "prov": 4,
+                "fraction": "neutral"
+            },
+            {
+                "name": "Naiad Pondkeeper",
+                "prov": 4,
+                "fraction": "st"
+            },
+            {
+                "name": "Naiad Pondkeeper",
+                "prov": 4,
+                "fraction": "st"
+            },
+            {
+                "name": "Dryads Caress",
+                "prov": 4,
+                "fraction": "st"
+            },
+            {
+                "name": "Circle of Life",
+                "prov": 4,
+                "fraction": "st"
+            },
+            {
+                "name": "Circle of Life",
+                "prov": 4,
+                "fraction": "st"
+            }
+        ]
+    },
+    {
+        "name": "ST renfri pr-strike",
+        "cards": [
+            {
+                "name": "Renfri",
+                "prov": 14,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Zoltan Warrior",
+                "prov": 13,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "st"
+            },
+            {
+                "name": "The Great Oak",
+                "prov": 12,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "st"
+            },
+            {
+                "name": "Geralt of Rivia",
+                "prov": 10,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Zoltan Chivay",
+                "prov": 9,
+                "gold": true,
+                "category": "core",
+                "fraction": "st"
+            },
+            {
+                "name": "Eudora Breckenriggs",
+                "prov": 8,
+                "gold": true,
+                "category": "summon",
+                "fraction": "st"
+            },
+            {
+                "name": "Iris von Everec",
+                "prov": 8,
+                "gold": true,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Zoltan Scoundrel",
+                "prov": 8,
+                "gold": true,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Iris Companions",
+                "prov": 7,
+                "gold": true,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Dorregaray of Vole",
+                "prov": 6,
+                "gold": true,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Renfris Gang",
+                "prov": 6,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Renfris Gang",
+                "prov": 6,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Xavier Lemmens",
+                "prov": 6,
+                "gold": true,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Dwarven Chariot",
+                "prov": 5,
+                "category": "core",
+                "fraction": "st"
+            },
+            {
+                "name": "Dwarven Chariot",
+                "prov": 5,
+                "category": "core",
+                "fraction": "st"
+            },
+            {
+                "name": "Maxii van Dekkar",
+                "prov": 5,
+                "gold": true,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Dwarven Agitator",
+                "prov": 4,
+                "fraction": "st"
+            },
+            {
+                "name": "Mahakam Volunteers",
+                "prov": 4,
+                "fraction": "st"
+            },
+            {
+                "name": "Mahakam Volunteers",
+                "prov": 4,
+                "fraction": "st"
+            },
+            {
+                "name": "Dwarf Berserker",
+                "prov": 4,
+                "fraction": "st"
+            },
+            {
+                "name": "Dwarf Berserker",
+                "prov": 4,
+                "fraction": "st"
+            },
+            {
+                "name": "Brokilon Sentinel",
+                "prov": 4,
+                "fraction": "st"
+            },
+            {
+                "name": "Brokilon Sentinel",
+                "prov": 4,
+                "fraction": "st"
+            },
+            {
+                "name": "Dwarven Skirmisher",
+                "prov": 4,
+                "fraction": "st"
+            },
+            {
+                "name": "Dwarven Skirmisher",
+                "prov": 4,
+                "fraction": "st"
+            }
+        ]
+    },
+    {
+        "name": "SK самоурон",
+        "cards": [
+            {
+                "name": "Svalblod",
+                "prov": 13,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "sk"
+            },
+            {
+                "name": "Portal",
+                "prov": 11,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Kaer Trolde",
+                "prov": 11,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "sk"
+            },
+            {
+                "name": "Korathi Heatwave",
+                "prov": 10,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Svalblod Totem",
+                "prov": 10,
+                "gold": true,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "Dracoturtle",
+                "prov": 10,
+                "gold": true,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "Olgierd Immortal",
+                "prov": 9,
+                "gold": true,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Sigvald",
+                "prov": 9,
+                "gold": true,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "Sigrdrifas Rite",
+                "prov": 8,
+                "gold": true,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "Knut the Callous",
+                "prov": 8,
+                "gold": true,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "Vildkaarl",
+                "prov": 7,
+                "gold": true,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "Bearification",
+                "prov": 5,
+                "gold": true,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Maxii van Dekkar",
+                "prov": 5,
+                "gold": true,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Dwimveandra",
+                "prov": 5,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Dwimveandra",
+                "prov": 5,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Vial of Forbidden Knowledge",
+                "prov": 4,
+                "gold": true,
+                "fraction": "neutral"
+            },
+            {
+                "name": "Spores",
+                "prov": 4,
+                "fraction": "neutral"
+            },
+            {
+                "name": "Mardroeme",
+                "prov": 4,
+                "fraction": "sk"
+            },
+            {
+                "name": "Bear Witcher Adept",
+                "prov": 4,
+                "fraction": "sk"
+            },
+            {
+                "name": "Bear Witcher Adept",
+                "prov": 4,
+                "fraction": "sk"
+            },
+            {
+                "name": "Dimun Corsair",
+                "prov": 4,
+                "fraction": "sk"
+            },
+            {
+                "name": "Dimun Corsair",
+                "prov": 4,
+                "fraction": "sk"
+            },
+            {
+                "name": "Armored Drakkar",
+                "prov": 4,
+                "fraction": "sk"
+            },
+            {
+                "name": "Armored Drakkar",
+                "prov": 4,
+                "fraction": "sk"
+            },
+            {
+                "name": "Bear Witcher Quartermaster",
+                "prov": 4,
+                "fraction": "sk"
+            }
+        ]
+    },
+    {
+        "name": "NR muto nekker",
+        "cards": [
+            {
+                "name": "Golden Nekker",
+                "prov": 10,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Royal Decree",
+                "prov": 9,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Mutagenerator",
+                "prov": 9,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "nr"
+            },
+            {
+                "name": "Flotsam",
+                "prov": 9,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "nr"
+            },
+            {
+                "name": "Ildiko",
+                "prov": 9,
+                "gold": true,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Vernon Roche",
+                "prov": 9,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "nr"
+            },
+            {
+                "name": "Matta Huuri",
+                "prov": 9,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Idarran of Ulivo",
+                "prov": 8,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Dorregaray of Vole",
+                "prov": 6,
+                "gold": true,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Reinforcements",
+                "prov": 6,
+                "gold": true,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Reaver Scout",
+                "prov": 6,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Reaver Scout",
+                "prov": 6,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Reaver Hunters",
+                "prov": 6,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Reaver Hunters",
+                "prov": 6,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Redanian Secret Service",
+                "prov": 6,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Margarita Laux-Antille",
+                "prov": 6,
+                "gold": true,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Wagon",
+                "prov": 5,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Musicians of Blaviken",
+                "prov": 5,
+                "gold": true,
+                "category": "summon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Cintrian Royal Guard",
+                "prov": 5,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Cintrian Royal Guard",
+                "prov": 5,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Carroballista",
+                "prov": 5,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Carroballista",
+                "prov": 5,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Reinforced Ballista",
+                "prov": 5,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Reinforced Ballista",
+                "prov": 5,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Lyrian Landsknecht",
+                "prov": 5,
+                "category": "core",
+                "fraction": "nr"
+            }
+        ]
+    },
+    {
+        "name": "NR жрички ренфри",
+        "cards": [
+            {
+                "name": "Renfri",
+                "prov": 14,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Sunset Wanderers",
+                "prov": 13,
+                "gold": true,
+                "category": "summon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Runemage",
+                "prov": 10,
+                "gold": true,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "King Radovid V",
+                "prov": 10,
+                "gold": true,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Vernon Roche",
+                "prov": 9,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "nr"
+            },
+            {
+                "name": "Snowdrop",
+                "prov": 8,
+                "gold": true,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Hubert Rejk",
+                "prov": 8,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "nr"
+            },
+            {
+                "name": "Dorregaray of Vole",
+                "prov": 6,
+                "gold": true,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Renfris Gang",
+                "prov": 6,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Renfris Gang",
+                "prov": 6,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Redanian Secret Service",
+                "prov": 6,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Onager",
+                "prov": 6,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Onager",
+                "prov": 6,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Margarita Laux-Antille",
+                "prov": 6,
+                "gold": true,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Istredd",
+                "prov": 6,
+                "gold": true,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Griffin Witcher Mentor",
+                "prov": 5,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Griffin Witcher Mentor",
+                "prov": 5,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Reinforced Ballista",
+                "prov": 5,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Siege Master",
+                "prov": 5,
+                "category": "summon",
+                "fraction": "nr"
+            },
+            {
+                "name": "Siege Master",
+                "prov": 5,
+                "category": "summon",
+                "fraction": "nr"
+            },
+            {
+                "name": "Siege Tower",
+                "prov": 4,
+                "fraction": "nr"
+            },
+            {
+                "name": "Siege Tower",
+                "prov": 4,
+                "fraction": "nr"
+            },
+            {
+                "name": "Traveling Priestess",
+                "prov": 4,
+                "fraction": "nr"
+            },
+            {
+                "name": "Traveling Priestess",
+                "prov": 4,
+                "fraction": "nr"
+            },
+            {
+                "name": "Tridam Infantry",
+                "prov": 4,
+                "fraction": "nr"
+            }
+        ]
+    },
+    {
+        "name": "NR Siege",
+        "cards": [
+            {
+                "name": "Siege",
+                "prov": 13,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "nr"
+            },
+            {
+                "name": "King Henselt",
+                "prov": 13,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "nr"
+            },
+            {
+                "name": "King Radovid V",
+                "prov": 10,
+                "gold": true,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Radovid Judgment",
+                "prov": 10,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "nr"
+            },
+            {
+                "name": "Hubert Rejk",
+                "prov": 8,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "nr"
+            },
+            {
+                "name": "Foltests Pride",
+                "prov": 8,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "nr"
+            },
+            {
+                "name": "War Chariot",
+                "prov": 7,
+                "gold": true,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Onager",
+                "prov": 6,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Reinforced Ballista",
+                "prov": 5,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Reinforced Ballista",
+                "prov": 5,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Siege Master",
+                "prov": 5,
+                "category": "summon",
+                "fraction": "nr"
+            },
+            {
+                "name": "Siege Master",
+                "prov": 5,
+                "category": "summon",
+                "fraction": "nr"
+            },
+            {
+                "name": "Carroballista",
+                "prov": 5,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Carroballista",
+                "prov": 5,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Kaedweni Revenant",
+                "prov": 4,
+                "fraction": "nr"
+            },
+            {
+                "name": "Kaedweni Revenant",
+                "prov": 4,
+                "fraction": "nr"
+            },
+            {
+                "name": "Winch",
+                "prov": 4,
+                "fraction": "nr"
+            },
+            {
+                "name": "Winch",
+                "prov": 4,
+                "fraction": "nr"
+            },
+            {
+                "name": "Siege Tower",
+                "prov": 4,
+                "fraction": "nr"
+            },
+            {
+                "name": "Siege Tower",
+                "prov": 4,
+                "fraction": "nr"
+            }
+        ]
+    },
+    {
+        "name": "NR терпилы",
+        "cards": [
+            {
+                "name": "Amphibious Assault",
+                "prov": 12,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "nr"
+            },
+            {
+                "name": "Chapter of Wizards",
+                "prov": 12,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "nr"
+            },
+            {
+                "name": "Gerhart of Aelle",
+                "prov": 11,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "nr"
+            },
+            {
+                "name": "Shani",
+                "prov": 10,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "nr"
+            },
+            {
+                "name": "Prince Anséis",
+                "prov": 10,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "nr"
+            },
+            {
+                "name": "Donimir of Troy",
+                "prov": 9,
+                "gold": true,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Royal Decree",
+                "prov": 9,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Leticia Charbonneau",
+                "prov": 7,
+                "gold": true,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Istredd",
+                "prov": 6,
+                "gold": true,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Alumni",
+                "prov": 6,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Alumni",
+                "prov": 6,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Redanian Secret Service",
+                "prov": 6,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Runeword",
+                "prov": 5,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Runeword",
+                "prov": 5,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Casting Contest",
+                "prov": 5,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Casting Contest",
+                "prov": 5,
+                "category": "core",
+                "fraction": "nr"
+            },
+            {
+                "name": "Practice Makes Perfect",
+                "prov": 4,
+                "fraction": "nr"
+            },
+            {
+                "name": "Practice Makes Perfect",
+                "prov": 4,
+                "fraction": "nr"
+            },
+            {
+                "name": "Aretuza Student",
+                "prov": 4,
+                "fraction": "nr"
+            },
+            {
+                "name": "Aretuza Student",
+                "prov": 4,
+                "fraction": "nr"
+            },
+            {
+                "name": "Ban Ard Student",
+                "prov": 4,
+                "fraction": "nr"
+            },
+            {
+                "name": "Ban Ard Student",
+                "prov": 4,
+                "fraction": "nr"
+            },
+            {
+                "name": "Cintrian Envoy",
+                "prov": 4,
+                "fraction": "nr"
+            },
+            {
+                "name": "Cintrian Envoy",
+                "prov": 4,
+                "fraction": "nr"
+            }
+        ]
+    },
+    {
+        "name": "SK Cintra",
+        "cards": [
+            {
+                "name": "Shupe Day Off",
+                "prov": 12,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Lippy Gudmund",
+                "prov": 11,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "sk"
+            },
+            {
+                "name": "Magic Compass",
+                "prov": 10,
+                "gold": true,
+                "echo": true,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "Aerondight",
+                "prov": 10,
+                "gold": true,
+                "echo": true,
+                "category": "wincon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Radeyah",
+                "prov": 10,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Hen Gaidth Sword",
+                "prov": 9,
+                "gold": true,
+                "echo": true,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Triss Butterflies",
+                "prov": 9,
+                "gold": true,
+                "category": "tutor",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Delirium",
+                "prov": 8,
+                "gold": true,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "Corrupted Flaminica",
+                "prov": 8,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "sk"
+            },
+            {
+                "name": "Morkvarg",
+                "prov": 7,
+                "gold": true,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "Prize-Winning Cow",
+                "prov": 6,
+                "gold": true,
+                "category": "core",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Giant Boar",
+                "prov": 6,
+                "gold": true,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "Musicians of Blaviken",
+                "prov": 5,
+                "gold": true,
+                "category": "summon",
+                "fraction": "neutral"
+            },
+            {
+                "name": "Raging Bear",
+                "prov": 5,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "Sea Serpent",
+                "prov": 5,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "Anglerfish",
+                "prov": 5,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "Crow Messenger",
+                "prov": 5,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "Elder Bear",
+                "prov": 4,
+                "fraction": "neutral"
+            },
+            {
+                "name": "Squirrel",
+                "prov": 4,
+                "fraction": "neutral"
+            },
+            {
+                "name": "Wolf Pack",
+                "prov": 4,
+                "fraction": "neutral"
+            },
+            {
+                "name": "Little Havfrue",
+                "prov": 4,
+                "fraction": "sk"
+            },
+            {
+                "name": "Seagull",
+                "prov": 4,
+                "fraction": "sk"
+            },
+            {
+                "name": "Savage Bear",
+                "prov": 4,
+                "fraction": "sk"
+            },
+            {
+                "name": "Wolf Pack",
+                "prov": 4,
+                "fraction": "neutral"
+            }
+        ]
+    },
+    {
+        "name": "SK пираты",
+        "cards": [
+            {
+                "name": "Fucusya",
+                "prov": 14,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "sk"
+            },
+            {
+                "name": "Kaer Trolde",
+                "prov": 11,
+                "gold": true,
+                "category": "wincon",
+                "fraction": "sk"
+            },
+            {
+                "name": "Morkvarg Heart of Terror",
+                "prov": 10,
+                "gold": true,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "Naval Supremacy",
+                "prov": 8,
+                "gold": true,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "Dimun Pirate",
+                "prov": 5,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "Dimun Pirate",
+                "prov": 5,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "Dimun Smuggler",
+                "prov": 5,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "Dimun Smuggler",
+                "prov": 5,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "An Craite Longship",
+                "prov": 5,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "An Craite Longship",
+                "prov": 5,
+                "category": "core",
+                "fraction": "sk"
+            },
+            {
+                "name": "Dimun Light Longship",
+                "prov": 4,
+                "fraction": "sk"
+            },
+            {
+                "name": "Dimun Light Longship",
+                "prov": 4,
+                "fraction": "sk"
+            }
+        ]
+    }
+]

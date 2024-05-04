@@ -6,14 +6,19 @@ import { MetaDecks } from "@/data/decks";
 import CardView from './CardView.vue';
 import { ref, computed } from 'vue';
 import { onMounted } from "vue";
+import defaultDecks from './defaultDecks.json';
 
 const decks = ref<Deck[]>(MetaDecks);
 const currentDeck = ref<Deck>(decks.value[0]);
-const showIcons = ref(false);
-const showNames = ref(false);
-const showCategory = ref(false);
+const showIcons = ref(true);
+const showNames = ref(true);
+const showCategory = ref(true);
 
 onMounted(() => {
+	if (localStorage.getItem('decks') === null) {
+		localStorage.setItem('decks', JSON.stringify(defaultDecks));
+	}
+
 	const savedDecks = JSON.parse(localStorage.getItem('decks') || '[]') as Array<Deck>;
 	decks.value = savedDecks;
 	if (decks.value.length > 0) {
@@ -54,10 +59,10 @@ const provLeft = computed(() => {
 
 <template>
 	<div class="deck-tracker">
-		<v-btn class="mr-2 mb-4" @click="showIcons = !showIcons">Иконки</v-btn>
-		<v-btn class="mr-2 mb-4" @click="showNames = !showNames">Имена</v-btn>
-		<v-btn class="mr-2 mb-4" @click="showCategory = !showCategory">Категории</v-btn>
-		<div>Осталось: {{ provLeft }}</div>
+		<v-btn class="mr-2 mb-4" @click="showIcons = !showIcons">Icons</v-btn>
+		<v-btn class="mr-2 mb-4" @click="showNames = !showNames">Names</v-btn>
+		<v-btn class="mr-2 mb-4" @click="showCategory = !showCategory">Categories</v-btn>
+		<div>Provision left: {{ provLeft }}</div>
 
 		<v-select
 			:model-value="currentDeck"

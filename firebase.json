@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "aobu-web",
+    "site": "gwent-helper",
     "public": "dist",
     "ignore": [
       "firebase.json",

@@ -34,7 +34,7 @@ function createNewDeck(): void {
 }
 
 function save(): void {
-	if (confirm('Сохранить текущую колоду?')) {
+	if (confirm('Save current deck?')) {
 		if (editMode.value) {
 			localStorage.setItem('decks', JSON.stringify(decks.value));
 		} else {
@@ -45,7 +45,7 @@ function save(): void {
 }
 
 function deleteCurrentDeck(): void {
-	if (confirm('Удалить текущую колоду?')) {
+	if (confirm('Delete current deck?')) {
 		decks.value = decks.value.filter(d => d !== currentDeck.value);
 		localStorage.setItem('decks', JSON.stringify(decks.value));
 	}
@@ -88,9 +88,9 @@ const filteredCards = computed(() => {
 	<div class="deck-constructor">
 		<div>
 			<div class="d-flex row">
-				<v-text-field label="Имя" v-model="filter" hide-details flat class="mr-2"></v-text-field>
-				<v-text-field label="Фракция" v-model="fractionFilter" hide-details flat class="mr-2"></v-text-field>
-				<v-text-field label="Провизия" v-model="provisionFilter" hide-details flat></v-text-field>
+				<v-text-field label="Name" v-model="filter" hide-details flat class="mr-2"></v-text-field>
+				<v-text-field label="Fraction (ng/mo...)" v-model="fractionFilter" hide-details flat class="mr-2"></v-text-field>
+				<v-text-field label="Provision" v-model="provisionFilter" hide-details flat></v-text-field>
 			</div>
 			<div class="cards-container">
 				<CardView v-for="(card, index) in filteredCards" :key="index" :card="card" :show-names="true" :show-icons="true" @left-click="selectFromAll" @right-click="onRightClick"/>
@@ -98,11 +98,11 @@ const filteredCards = computed(() => {
 		</div>
 
 		<div>
-			Осталось провизии {{ provLeft }} / Всего карт {{ currentDeck.cards.length }}
+			Provision left {{ provLeft }} / Total cards {{ currentDeck.cards.length }}
 			<span>
-				<v-btn @click="createNewDeck" class="mr-2 mb-2">Новая колода</v-btn>
-				<v-btn @click="save" class="mr-2 mb-2">Сохранить колоду</v-btn>
-				<v-btn @click="deleteCurrentDeck" class="mr-2 mb-2">Удалить колоду</v-btn>
+				<v-btn @click="createNewDeck" class="mr-2 mb-2">New deck</v-btn>
+				<v-btn @click="save" class="mr-2 mb-2">Save deck</v-btn>
+				<v-btn @click="deleteCurrentDeck" class="mr-2 mb-2">Delete deck</v-btn>
 				<v-select
 					:model-value="currentDeck"
 					item-title="name"
